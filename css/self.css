@@ -67,3 +67,29 @@
     z-index: 999;
     box-shadow: 0 1.2rem 3.2rem rgba(0, 0, 0, 0.03);
   }
+
+  .c{
+  padding-top: 10rem;
+  font-family: 標楷體;
+  font-size: 2rem;
+  text-align: left;
+  }
+
+  .c table
+  {
+    background-color: #fdf2e9;
+  }
+
+  .e{
+  font-family: 標楷體;
+  font-size: 2rem;
+  text-align: right;
+  
+  }
+
+  .e table{
+    text-align: left;
+    background-color: #f9d6bb;
+    padding-bottom: 1rem;
+    max-width: max-content;
+  }
